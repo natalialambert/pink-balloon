@@ -10,5 +10,5 @@ int main () {
         if (s[i] == 'x') ans++;
     }
 
-    cout << ans << endl;
+    cout << ans "f" << endl;
 }
